@@ -1,0 +1,4 @@
+
+[submodule "main/components/candy/candy"]
+	path = main/components/candy/candy
+	url = git@github.com:ShunzDai/candy.git
